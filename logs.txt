@@ -1,0 +1,12 @@
+commit 477083ed1892a7ebf8dcd4d0aed398976a623e9c (HEAD -> master, origin/master)
+Author: Edwin Villanueva <edwinv.dev92@gmail.com>
+Date:   Wed Jun 21 18:28:18 2023 -0300
+
+    segundo commit requerido por el ejercicio
+
+commit 0e7da71177dd699ad190f7358b7d20a77d90f020
+Author: Edwin Villanueva - FullStack Developer <89473903+Edwin-Villanueva@users.noreply.github.com>
+Date:   Wed Jun 21 17:45:19 2023 -0300
+
+    Initial commit
+
